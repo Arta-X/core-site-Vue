@@ -42,7 +42,7 @@
         </div>
         <img
           alt="pastedImage"
-          src="/playground_assets/pastedimage-smyp-400w.png"
+          src="/playground_assets/pastedimage-saa-400w.png"
           class="home-pasted-image"
         />
       </div>
@@ -58,7 +58,7 @@
           <p class="home-text12">
             <span>
               General contract covers wide range of
-              <span v-html="rawpfo6"></span>
+              <span v-html="rawn7sj"></span>
             </span>
             <br />
             <span>
@@ -93,13 +93,18 @@
                 drafting, negotiating, and signing contracts an effortless task.
                 Our solution not only simplifies the process but also ensures your
                 contracts are securely stored and easily accessible.
-                <span v-html="rawwr4a"></span>
+                <span v-html="raw4ox2"></span>
               </p>
             </main>
             <div class="home-explore-more">
               <p class="home-text20">Explore more -&gt;</p>
             </div>
           </div>
+          <img
+            alt="pastedImage"
+            src="/playground_assets/pastedimage-pj93-400w.png"
+            class="home-pasted-image1"
+          />
         </div>
       </div>
     </section>
@@ -115,12 +120,8 @@
           contracts facilitated by Arta-X leverage AI and blockchain technology,
           ensuring the contracts are not only easy to create but also highly
           secure and tamper-proof.
-          <span v-html="raweusn"></span>
+          <span v-html="rawe2gs"></span>
         </span>
-        <img
-          alt="pastedImage"
-          src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5f198b6c-7277-4cb4-afbb-4630fe965132/9df5b73c-f18a-4f2a-bcf9-107dc1065a5c?org_if_sml=1208874"
-        />
       </header>
       <section class="home-note1">
         <div class="home-image2">
@@ -171,13 +172,24 @@
                   <br />
                 </h2>
                 <p class="section-description">
-                  Arta-X provides secure contract solutions that you can verify
-                  from anywhere in the world. Our use of blockchain technology
-                  ensures that each contract is tamper-proof and transparently
-                  recorded on a decentralized ledger. This provides an unalterable
-                  record of each agreement, enabling all parties to verify
-                  contract authenticity and integrity at any time, from any
-                  location.
+                  <span>
+                    Arta-X provides secure contract solutions that you can verify
+                    from anywhere in the world. Our use of blockchain technology
+                    ensures
+                    <span v-html="raw6kjo"></span>
+                  </span>
+                  <br />
+                  <span>
+                    that each contract is tamper-proof and transparently recorded
+                    on
+                    <span v-html="rawb4j6"></span>
+                  </span>
+                  <br />
+                  <span>
+                    a decentralized ledger. This provides an unalterable record of
+                    each agreement, enabling all parties to verify contract
+                    authenticity and integrity at any time, from any location.
+                  </span>
                 </p>
               </header>
               <div class="home-checkmarks">
@@ -228,7 +240,7 @@
                 src="/playground_assets/apple-200w.png"
                 class="home-icon6"
               />
-              <span class="home-text25">Download for iOS</span>
+              <span class="home-text30">Download for iOS</span>
             </div>
             <div class="home-android button">
               <img
@@ -236,7 +248,7 @@
                 src="/playground_assets/android-200h.png"
                 class="home-icon7"
               />
-              <span class="home-text26">Download for Android</span>
+              <span class="home-text31">Download for Android</span>
             </div>
           </div>
         </header>
@@ -254,11 +266,10 @@
             <header class="home-main4">
               <div class="home-header4">
                 <img
-                  alt="image"
-                  src="/playground_assets/2023-05-09_00-30-200h.png"
-                  class="home-image4"
+                  alt="pastedImage"
+                  src="/playground_assets/pastedimage-zqv9-200h.png"
+                  class="home-pasted-image5"
                 />
-                <span class="home-text27">Arta-X Sdn Bhd</span>
               </div>
               <div class="home-socials">
                 <a
@@ -327,7 +338,7 @@
             </header>
           </div>
           <section class="home-copyright">
-            <span class="home-text40">© 2023 Arta-X. All Rights Reserved.</span>
+            <span class="home-text44">© 2023 Arta-X. All Rights Reserved.</span>
           </section>
         </main>
         <main class="home-subscribe">
@@ -340,8 +351,8 @@
                 class="home-textinput input"
               />
               <div class="home-buy button">
-                <span class="home-text41">-&gt;</span>
-                <span class="home-text42">
+                <span class="home-text45">-&gt;</span>
+                <span class="home-text46">
                   <span>Subscribe now</span>
                   <br />
                 </span>
@@ -354,7 +365,7 @@
           </h1>
         </main>
         <section class="home-copyright1">
-          <span class="home-text45">© 2022 latitude. All Rights Reserved.</span>
+          <span class="home-text49">© 2022 latitude. All Rights Reserved.</span>
         </section>
       </div>
     </footer>
@@ -450,9 +461,11 @@ export default {
   },
   data() {
     return {
-      rawpfo6: ' ',
-      rawwr4a: ' ',
-      raweusn: ' ',
+      rawn7sj: ' ',
+      raw4ox2: ' ',
+      rawe2gs: ' ',
+      raw6kjo: ' ',
+      rawb4j6: ' ',
     }
   },
   metaInfo: {
@@ -564,8 +577,8 @@ export default {
   display: none;
 }
 .home-pasted-image {
-  width: 334px;
-  height: 508px;
+  width: 316px;
+  height: 479px;
 }
 .home-section1 {
   flex: 1;
@@ -645,7 +658,7 @@ export default {
 }
 .home-note {
   gap: 140px;
-  width: 662px;
+  width: 1150px;
   display: flex;
   max-width: 1200px;
   align-items: center;
@@ -700,6 +713,10 @@ export default {
   font-style: normal;
   font-weight: 500;
   line-height: 24px;
+}
+.home-pasted-image1 {
+  width: 330px;
+  height: 257px;
 }
 .home-section2 {
   gap: var(--dl-space-space-sixunits);
@@ -1008,7 +1025,7 @@ export default {
   width: 16px;
   object-fit: cover;
 }
-.home-text25 {
+.home-text30 {
   color: #ffffff;
   font-size: 16px;
   font-style: normal;
@@ -1026,7 +1043,7 @@ export default {
   width: 16px;
   object-fit: cover;
 }
-.home-text26 {
+.home-text31 {
   color: rgb(255, 255, 255);
   font-size: 16px;
   font-style: normal;
@@ -1089,17 +1106,9 @@ export default {
   flex-direction: column;
   justify-content: center;
 }
-.home-image4 {
-  width: 100px;
-  object-fit: cover;
-}
-.home-text27 {
-  color: rgb(255, 255, 255);
-  width: 100%;
-  font-size: 14px;
-  max-width: 260px;
-  font-family: Poppins;
-  line-height: 21px;
+.home-pasted-image5 {
+  width: 159px;
+  height: 57px;
 }
 .home-socials {
   gap: var(--dl-space-space-unit);
@@ -1180,7 +1189,7 @@ export default {
   flex-direction: column;
   justify-content: center;
 }
-.home-text40 {
+.home-text44 {
   color: rgb(196, 196, 196);
   width: 100%;
   font-size: 14px;
@@ -1238,7 +1247,7 @@ export default {
   padding-bottom: var(--dl-space-space-unit);
   background-color: #80FF44;
 }
-.home-text41 {
+.home-text45 {
   color: rgb(12, 16, 12);
   display: none;
   font-size: 16px;
@@ -1247,7 +1256,7 @@ export default {
   font-weight: 500;
   line-height: 24px;
 }
-.home-text42 {
+.home-text46 {
   color: rgb(12, 16, 12);
   display: flex;
   font-size: 16px;
@@ -1274,7 +1283,7 @@ export default {
   flex-direction: column;
   justify-content: center;
 }
-.home-text45 {
+.home-text49 {
   color: #C4C4C4;
   width: 100%;
   font-size: 14px;
@@ -1489,7 +1498,7 @@ export default {
     gap: var(--dl-space-space-twounits);
     flex-direction: column;
   }
-  .home-text42 {
+  .home-text46 {
     color: rgb(12, 16, 12);
     font-size: 16px;
     font-style: normal;
@@ -1511,7 +1520,7 @@ export default {
   .home-textinput {
     flex: 1;
   }
-  .home-text41 {
+  .home-text45 {
     color: rgb(12, 16, 12);
     display: flex;
     font-size: 24px;
@@ -1521,7 +1530,7 @@ export default {
     line-height: 24px;
     white-space: nowrap;
   }
-  .home-text42 {
+  .home-text46 {
     color: rgb(12, 16, 12);
     display: none;
     font-size: 24px;

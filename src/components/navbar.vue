@@ -1,6 +1,10 @@
 <template>
   <nav class="navbar-navbar" v-bind:class="rootClassName">
-    <img :alt="image_alt2" :src="image_src2" class="navbar-image" />
+    <img
+      :alt="pastedImage_alt1"
+      :src="pastedImage_src1"
+      class="navbar-pasted-image"
+    />
     <div class="navbar-nav-content">
       <div class="navbar-nav-links">
         <span class="nav-link">Home</span>
@@ -14,12 +18,12 @@
         </span>
       </div>
       <div id="open-mobile-menu" class="navbar-hamburger get-started">
-        <img :alt="image_alt" :src="image_src" class="navbar-image1" />
+        <img :alt="image_alt" :src="image_src" class="navbar-image" />
       </div>
     </div>
     <div id="mobile-menu" class="navbar-mobile-menu">
       <div class="navbar-branding">
-        <img :alt="image_alt1" :src="image_src1" class="navbar-image2" />
+        <img :alt="image_alt1" :src="image_src1" class="navbar-image1" />
         <div id="close-mobile-menu" class="navbar-container">
           <svg viewBox="0 0 1024 1024" class="navbar-icon">
             <path
@@ -109,19 +113,36 @@ export default {
       type: String,
       default: 'image',
     },
+    pastedImage_src: {
+      type: String,
+      default:
+        'https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5f198b6c-7277-4cb4-afbb-4630fe965132/7e62aaaf-b77d-45e3-8c73-ad658996ba09?org_if_sml=111183',
+    },
+    pastedImage_alt: {
+      type: String,
+      default: 'pastedImage',
+    },
     image_alt2: {
       type: String,
       default: 'image',
     },
     image_src2: {
       type: String,
-      default: '/playground_assets/2023-05-09_00-30-400w.png',
+      default: '2d017b93-1a1a-4654-b3d7-71817d17b17b',
     },
     rootClassName: String,
     BrandingLogo: {
       type: String,
       default:
         'https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/08e9141c-e9e9-4d51-994d-22f260b21c68/0f4ac702-51a5-4a68-8182-06e3f427edb8?org_if_sml=14251',
+    },
+    pastedImage_src1: {
+      type: String,
+      default: '/playground_assets/pastedimage-c3dd-200h.png',
+    },
+    pastedImage_alt1: {
+      type: String,
+      default: 'pastedImage',
     },
   },
   components: {
@@ -145,10 +166,9 @@ export default {
   padding-right: var(--dl-space-space-oneandhalfunits);
   padding-bottom: var(--dl-space-space-fiveunits);
 }
-.navbar-image {
-  width: 323px;
-  height: 156px;
-  object-fit: cover;
+.navbar-pasted-image {
+  width: 303px;
+  height: 109px;
 }
 .navbar-nav-content {
   gap: var(--dl-space-space-threeunits);
@@ -177,7 +197,7 @@ export default {
 .navbar-hamburger {
   display: none;
 }
-.navbar-image1 {
+.navbar-image {
   width: 100px;
   object-fit: cover;
 }
@@ -203,7 +223,7 @@ export default {
   flex-direction: row;
   justify-content: space-between;
 }
-.navbar-image2 {
+.navbar-image1 {
   width: 100px;
   filter: brightness(0) saturate(100%);
   object-fit: cover;
@@ -250,7 +270,7 @@ export default {
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
   }
-  .navbar-image1 {
+  .navbar-image {
     width: 16px;
     height: 14px;
   }
