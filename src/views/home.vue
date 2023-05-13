@@ -1,7 +1,7 @@
 <template>
   <div class="home-container">
     <app-navbar rootClassName="navbar-root-class-name"></app-navbar>
-    <section class="home-section">
+    <section class="home-main-highlight">
       <div class="home-hero">
         <div class="home-content">
           <main class="home-main">
@@ -47,7 +47,7 @@
         />
       </div>
     </section>
-    <section class="home-section1">
+    <section class="home-explore-technology">
       <h2 class="home-text08">
         <span>&quot;Your digital contracts, ready and secure, 24/7.&quot;</span>
         <br />
@@ -58,7 +58,7 @@
           <p class="home-text12">
             <span>
               General contract covers wide range of
-              <span v-html="rawrp3i"></span>
+              <span v-html="rawz2wd"></span>
             </span>
             <br />
             <span>
@@ -93,7 +93,7 @@
                 drafting, negotiating, and signing contracts an effortless task.
                 Our solution not only simplifies the process but also ensures your
                 contracts are securely stored and easily accessible.
-                <span v-html="rawb5x2"></span>
+                <span v-html="raweeul"></span>
               </p>
             </main>
             <div class="home-explore-more">
@@ -108,7 +108,7 @@
         </div>
       </div>
     </section>
-    <section class="home-section2">
+    <section class="home-what-is-arta-x">
       <header class="home-header1">
         <h2 class="home-text21">What is Arta-X?</h2>
         <span class="home-text22">
@@ -120,10 +120,10 @@
           clarity and comprehension for all parties involved. With the security of
           blockchain technology, every contract is secured, verifiable, and
           tamper-proof, providing peace of mind in your transactions.
-          <span v-html="raw2rsl"></span>
+          <span v-html="raw476k"></span>
         </span>
       </header>
-      <section class="home-note1">
+      <section class="home-smarter-ai">
         <div class="home-image2">
           <img
             alt="pastedImage"
@@ -150,9 +150,9 @@
           </div>
         </div>
       </section>
-      <div class="home-container2">
-        <div class="home-container3">
-          <span class="home-section4 section-head">
+      <div class="home-secure-verifable">
+        <div class="home-container2">
+          <span class="home-section1 section-head">
             SECURED AND VERIFIABLE CONTRACT
           </span>
           <h2 class="home-heading4 section-heading">
@@ -164,17 +164,17 @@
               <span>
                 Arta-X provides secure contract solutions that you can verify from
                 anywhere in the world. Our use of blockchain technology ensures
-                <span v-html="raw921d"></span>
+                <span v-html="rawygod"></span>
               </span>
-              <span><span v-html="raw1656"></span></span>
+              <span><span v-html="raws8sv"></span></span>
             </span>
             <br />
             <span>
               <span>
                 that each contract is tamper-proof and transparently recorded on
-                <span v-html="rawjh6p"></span>
+                <span v-html="rawc1r0"></span>
               </span>
-              <span><span v-html="rawh069"></span></span>
+              <span><span v-html="rawkstf"></span></span>
             </span>
             <br />
             <span>
@@ -226,14 +226,7 @@
         />
       </div>
     </section>
-    <section class="home-section5">
-      <div class="home-cube">
-        <div class="home-top side"></div>
-        <div class="home-front side"></div>
-        <div class="home-left side"></div>
-      </div>
-    </section>
-    <section class="home-section6">
+    <section class="home-start-writing">
       <main class="home-content3">
         <header class="home-header3">
           <h2 class="home-heading6 section-heading">
@@ -388,13 +381,13 @@ export default {
   },
   data() {
     return {
-      rawrp3i: ' ',
-      rawb5x2: ' ',
-      raw2rsl: ' ',
-      raw921d: ' ',
-      raw1656: ' ',
-      rawjh6p: ' ',
-      rawh069: ' ',
+      rawz2wd: ' ',
+      raweeul: ' ',
+      raw476k: ' ',
+      rawygod: ' ',
+      raws8sv: ' ',
+      rawc1r0: ' ',
+      rawkstf: ' ',
     }
   },
   metaInfo: {
@@ -420,7 +413,7 @@ export default {
   flex-direction: column;
   background-color: #0F0F0F;
 }
-.home-section {
+.home-main-highlight {
   width: 100%;
   height: 80vh;
   display: flex;
@@ -509,7 +502,7 @@ export default {
   width: 316px;
   height: 479px;
 }
-.home-section1 {
+.home-explore-technology {
   flex: 1;
   width: 100%;
   display: flex;
@@ -647,7 +640,7 @@ export default {
   width: 330px;
   height: 257px;
 }
-.home-section2 {
+.home-what-is-arta-x {
   gap: var(--dl-space-space-sixunits);
   flex: 1;
   width: 100%;
@@ -688,7 +681,7 @@ export default {
   font-family: Poppins;
   line-height: 28px;
 }
-.home-note1 {
+.home-smarter-ai {
   width: 100%;
   display: flex;
   max-width: 1200px;
@@ -740,20 +733,20 @@ export default {
   flex-direction: column;
   justify-content: center;
 }
-.home-container2 {
+.home-secure-verifable {
   flex: 0 0 auto;
   width: 1118px;
   display: flex;
   align-items: flex-start;
 }
-.home-container3 {
+.home-container2 {
   flex: 0 0 auto;
   width: 668px;
   display: flex;
   align-items: flex-start;
   flex-direction: column;
 }
-.home-section4 {
+.home-section1 {
   color: rgb(198, 255, 75);
   align-self: flex-start;
   text-align: left;
@@ -887,49 +880,7 @@ export default {
   height: 275px;
   align-self: center;
 }
-.home-section5 {
-  gap: var(--dl-space-space-fiveunits);
-  flex: 1;
-  width: 100%;
-  display: flex;
-  position: relative;
-  align-items: center;
-  padding-left: var(--dl-space-space-oneandhalfunits);
-  padding-right: var(--dl-space-space-oneandhalfunits);
-  flex-direction: column;
-  padding-bottom: 120px;
-  justify-content: center;
-}
-.home-cube {
-  top: 20px;
-  left: 0px;
-  width: 120px;
-  height: 120px;
-  display: flex;
-  position: absolute;
-  transform: rotateX(240deg) rotateY(25deg) rotateZ(-110deg);
-  align-items: center;
-  flex-direction: column;
-  justify-content: center;
-  transform-style: preserve-3d;
-}
-.home-top {
-  transform: translateZ(-120px);
-  background-image: linear-gradient(270deg, rgb(253, 253, 253) 0.00%,rgb(178, 178, 178) 100.00%);
-}
-.home-front {
-  transform: rotateX(90deg);
-  background: grey;
-  background-image: linear-gradient(90deg, rgb(247, 247, 247) 0.00%,rgb(203, 203, 203) 100.00%);
-  transform-origin: bottom;
-}
-.home-left {
-  width: 120px;
-  transform: translateZ(-120px) rotateY(90deg);
-  background-image: linear-gradient(90deg, rgb(247, 247, 247) 0.00%,rgb(203, 203, 203) 100.00%);
-  transform-origin: right;
-}
-.home-section6 {
+.home-start-writing {
   gap: var(--dl-space-space-fiveunits);
   flex: 1;
   width: 100%;
@@ -1247,7 +1198,7 @@ export default {
   line-height: 21px;
 }
 @media(max-width: 991px) {
-  .home-section {
+  .home-main-highlight {
     height: auto;
     padding-left: 0px;
     padding-right: 0px;
@@ -1361,7 +1312,7 @@ export default {
   .home-image1 {
     width: 500px;
   }
-  .home-section1 {
+  .home-explore-technology {
     padding-top: 100px;
     padding-bottom: 100px;
   }
@@ -1412,7 +1363,7 @@ export default {
   .home-paragraph {
     line-height: 24px;
   }
-  .home-section2 {
+  .home-what-is-arta-x {
     gap: var(--dl-space-space-fourunits);
     padding-bottom: var(--dl-space-space-twounits);
   }
@@ -1420,10 +1371,10 @@ export default {
     font-size: 32px;
     text-align: center;
   }
-  .home-note1 {
+  .home-smarter-ai {
     flex-direction: column-reverse;
   }
-  .home-section6 {
+  .home-start-writing {
     padding-top: var(--dl-space-space-fourunits);
   }
   .home-header3 {
