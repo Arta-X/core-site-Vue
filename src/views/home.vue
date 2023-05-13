@@ -53,7 +53,7 @@
           <p class="home-text12">
             <span>
               General contract covers wide range of
-              <span v-html="raw6n3s"></span>
+              <span v-html="rawmk43"></span>
             </span>
             <br />
             <span>
@@ -88,7 +88,7 @@
                 drafting, negotiating, and signing contracts an effortless task.
                 Our solution not only simplifies the process but also ensures your
                 contracts are securely stored and easily accessible.
-                <span v-html="raw2cut"></span>
+                <span v-html="rawnpa3"></span>
               </p>
             </main>
             <div class="home-explore-more">
@@ -107,15 +107,18 @@
       <header class="home-header1">
         <h2 class="home-text21">What is Arta-X?</h2>
         <span class="home-text22">
-          Traditional contract drafting can be a labyrinth of complex legal
-          jargon, leaving room for misunderstandings and costly errors. Arta-X
-          revolutionizes this process by transforming the way you handle
-          contracts. Our AI-powered platform simplifies the drafting process by
-          converting intricate legal language into understandable terms, ensuring
-          clarity and comprehension for all parties involved. With the security of
-          blockchain technology, every contract is secured, verifiable, and
-          tamper-proof, providing peace of mind in your transactions.
-          <span v-html="rawmhif"></span>
+          <span>
+            Traditional contract drafting can be a labyrinth of complex legal
+            jargon, leaving room for misunderstandings and costly errors. Arta-X
+            revolutionizes this process by transforming the way you handle
+            contracts. Our AI-powered platform simplifies the drafting process by
+            converting intricate legal language into understandable terms,
+            ensuring clarity and comprehension for all parties involved. With the
+            security of blockchain technology, every contract is secured,
+            verifiable, and tamper-proof, providing peace of mind in your
+            transactions.
+          </span>
+          <span><span v-html="rawoiua"></span></span>
         </span>
       </header>
       <section class="home-smarter-ai">
@@ -158,58 +161,18 @@
             <br />
             <br />
             <span>
-              a decentralized ledger. This provides an unalterable record of each
+              Arta-X provides secure contract solutions that you can verify from
+              anywhere in the world. Our use of blockchain technology ensures that
+              each contract is tamper-proof and transparently recorded on a
+              decentralized ledger. This provides an unalterable record of each
               agreement, enabling all parties to verify contract authenticity and
               integrity at any time, from any location.
-            </span>
-            <span>
-              Arta-X provides secure contract solutions that you can verify from
-              anywhere in the world. Our use of blockchain technology ensures
-              <span v-html="rawa6md"></span>
-            </span>
-            <span><span v-html="rawgsv1"></span></span>
-            <span>
-              that each contract is tamper-proof and transparently recorded on
+              <span v-html="rawwmql"></span>
             </span>
             <br />
-            <span><span v-html="rawhs8f"></span></span>
-            <span><span v-html="rawwixe"></span></span>
+            <span><span v-html="rawe13e"></span></span>
+            <span><span v-html="raw6tdv"></span></span>
           </p>
-          <main class="home-heading5">
-            <header class="home-header2"></header>
-            <div class="home-checkmarks">
-              <div class="home-mark">
-                <div class="home-icon">
-                  <svg viewBox="0 0 1024 1024" class="home-icon01">
-                    <path
-                      d="M384 690l452-452 60 60-512 512-238-238 60-60z"
-                    ></path>
-                  </svg>
-                </div>
-                <p class="home-label">Verifiable contracting parties</p>
-              </div>
-              <div class="home-mark1">
-                <div class="home-icon03">
-                  <svg viewBox="0 0 1024 1024" class="home-icon04">
-                    <path
-                      d="M384 690l452-452 60 60-512 512-238-238 60-60z"
-                    ></path>
-                  </svg>
-                </div>
-                <p class="home-label1">Customized terms and covenants</p>
-              </div>
-              <div class="home-mark2">
-                <div class="home-icon06">
-                  <svg viewBox="0 0 1024 1024" class="home-icon07">
-                    <path
-                      d="M384 690l452-452 60 60-512 512-238-238 60-60z"
-                    ></path>
-                  </svg>
-                </div>
-                <p class="home-label2">Verifiable contract authenticity</p>
-              </div>
-            </div>
-          </main>
         </div>
         <img
           alt="pastedImage"
@@ -218,44 +181,69 @@
         />
       </div>
     </section>
-    <section class="home-start-writing">
-      <main class="home-content3">
-        <header class="home-header3">
-          <h2 class="home-heading6 section-heading">
-            Start writing your secure digital contract
-          </h2>
-          <div class="home-buttons1">
-            <div class="home-ios button">
-              <img
-                alt="image"
-                src="/playground_assets/apple-200w.png"
-                class="home-icon09"
-              />
-              <span class="home-text34">Download for iOS</span>
+    <div class="home-container3">
+      <img
+        alt="pastedImage"
+        src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5f198b6c-7277-4cb4-afbb-4630fe965132/63f402d2-e33f-4bf3-9dcf-18f1a1b4c6aa?org_if_sml=115260"
+        class="home-pasted-image4"
+      />
+      <main class="home-heading5">
+        <header class="home-header2"></header>
+        <h2 class="home-heading6 section-heading">
+          Start writing your secure digital contract
+        </h2>
+        <div class="home-checkmarks">
+          <div class="home-mark">
+            <div class="home-icon">
+              <svg viewBox="0 0 1024 1024" class="home-icon01">
+                <path d="M384 690l452-452 60 60-512 512-238-238 60-60z"></path>
+              </svg>
             </div>
-            <div class="home-android button">
-              <img
-                alt="image"
-                src="/playground_assets/android-200h.png"
-                class="home-icon10"
-              />
-              <span class="home-text35">Download for Android</span>
-            </div>
+            <p class="home-label">Verifiable contracting parties</p>
           </div>
-        </header>
-        <img
-          alt="pastedImage"
-          src="/playground_assets/pastedimage-afy9-400h.png"
-          class="home-pasted-image4"
-        />
+          <div class="home-mark1">
+            <div class="home-icon03">
+              <svg viewBox="0 0 1024 1024" class="home-icon04">
+                <path d="M384 690l452-452 60 60-512 512-238-238 60-60z"></path>
+              </svg>
+            </div>
+            <p class="home-label1">Customized terms and covenants</p>
+          </div>
+          <div class="home-mark2">
+            <div class="home-icon06">
+              <svg viewBox="0 0 1024 1024" class="home-icon07">
+                <path d="M384 690l452-452 60 60-512 512-238-238 60-60z"></path>
+              </svg>
+            </div>
+            <p class="home-label2">Verifiable contract authenticity</p>
+          </div>
+        </div>
       </main>
-    </section>
+    </div>
+    <div class="home-container4">
+      <div class="home-android button">
+        <img
+          alt="image"
+          src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5f198b6c-7277-4cb4-afbb-4630fe965132/43e39825-c710-48e7-8af5-008c97c0967c?org_if_sml=1254"
+          class="home-icon09"
+        />
+        <span class="home-text33">Download for Android</span>
+      </div>
+      <div class="home-ios button">
+        <img
+          alt="image"
+          src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5f198b6c-7277-4cb4-afbb-4630fe965132/a3aac95c-7937-4094-9654-e823a212112e?org_if_sml=1208"
+          class="home-icon10"
+        />
+        <span class="home-text34">Download for iOS</span>
+      </div>
+    </div>
     <footer class="home-footer">
-      <div class="home-content4">
+      <div class="home-content3">
         <main class="home-main-content">
-          <div class="home-content5">
+          <div class="home-content4">
             <header class="home-main3">
-              <div class="home-header4">
+              <div class="home-header3">
                 <img
                   alt="pastedImage"
                   src="/playground_assets/pastedimage-zqv9-200h.png"
@@ -303,7 +291,7 @@
             </header>
             <header class="home-categories">
               <div class="home-category">
-                <div class="home-header5">
+                <div class="home-header4">
                   <span class="footer-header">Solutions</span>
                 </div>
                 <div class="home-links">
@@ -314,7 +302,7 @@
                 </div>
               </div>
               <div class="home-category1">
-                <div class="home-header6">
+                <div class="home-header5">
                   <span class="footer-header">Company</span>
                 </div>
                 <div class="home-links1">
@@ -329,7 +317,7 @@
             </header>
           </div>
           <section class="home-copyright">
-            <span class="home-text48">© 2023 Arta-X. All Rights Reserved.</span>
+            <span class="home-text47">© 2023 Arta-X. All Rights Reserved.</span>
           </section>
         </main>
         <main class="home-subscribe">
@@ -342,8 +330,8 @@
                 class="home-textinput input"
               />
               <div class="home-buy button">
-                <span class="home-text49">-&gt;</span>
-                <span class="home-text50">
+                <span class="home-text48">-&gt;</span>
+                <span class="home-text49">
                   <span>Subscribe now</span>
                   <br />
                 </span>
@@ -356,7 +344,7 @@
           </h1>
         </main>
         <section class="home-copyright1">
-          <span class="home-text53">© 2022 latitude. All Rights Reserved.</span>
+          <span class="home-text52">© 2022 latitude. All Rights Reserved.</span>
         </section>
       </div>
     </footer>
@@ -373,13 +361,12 @@ export default {
   },
   data() {
     return {
-      raw6n3s: ' ',
-      raw2cut: ' ',
-      rawmhif: ' ',
-      rawa6md: ' ',
-      rawgsv1: ' ',
-      rawhs8f: ' ',
-      rawwixe: ' ',
+      rawmk43: ' ',
+      rawnpa3: ' ',
+      rawoiua: ' ',
+      rawwmql: ' ',
+      rawe13e: ' ',
+      raw6tdv: ' ',
     }
   },
   metaInfo: {
@@ -752,6 +739,21 @@ export default {
   width: 637px;
   align-self: flex-start;
 }
+.home-pasted-image3 {
+  width: 413px;
+  height: 275px;
+  align-self: center;
+}
+.home-container3 {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.home-pasted-image4 {
+  width: 531px;
+  height: 337px;
+}
 .home-heading5 {
   gap: var(--dl-space-space-twounits);
   width: 540px;
@@ -772,11 +774,14 @@ export default {
   flex-direction: column;
   justify-content: center;
 }
+.home-heading6 {
+  text-align: left;
+}
 .home-checkmarks {
   gap: var(--dl-space-space-unit);
   width: 527px;
   display: flex;
-  align-self: flex-start;
+  align-self: center;
   align-items: flex-start;
   flex-direction: column;
   justify-content: flex-start;
@@ -868,60 +873,44 @@ export default {
   font-weight: 600;
   line-height: 24px;
 }
-.home-pasted-image3 {
-  width: 413px;
-  height: 275px;
-  align-self: center;
-}
-.home-start-writing {
-  gap: var(--dl-space-space-fiveunits);
-  flex: 1;
-  width: 100%;
+.home-container4 {
+  flex: 0 0 auto;
+  width: 320px;
+  height: auto;
   display: flex;
-  align-items: center;
-  padding-top: 120px;
-  padding-left: var(--dl-space-space-oneandhalfunits);
-  padding-right: var(--dl-space-space-oneandhalfunits);
+  margin-top: var(--dl-space-space-unit);
+  align-items: flex-end;
   flex-direction: column;
-  justify-content: center;
-  background-color: #292929;
+  justify-content: flex-end;
 }
-.home-content3 {
+.home-android {
+  gap: var(--dl-space-space-halfunit);
   width: 100%;
   display: flex;
-  position: relative;
-  max-width: 1200px;
-  align-items: flex-start;
+  margin-bottom: var(--dl-space-space-unit);
   flex-direction: row;
-  justify-content: space-between;
+  background-color: #7c91b5;
 }
-.home-header3 {
-  gap: var(--dl-space-space-threeunits);
-  width: 100%;
-  display: flex;
-  max-width: 600px;
-  align-items: flex-start;
-  flex-direction: column;
-  padding-bottom: 120px;
-  justify-content: flex-start;
+.home-icon09 {
+  width: 16px;
+  object-fit: cover;
 }
-.home-heading6 {
-  text-align: left;
-}
-.home-buttons1 {
-  gap: var(--dl-space-space-unit);
-  display: flex;
-  align-items: center;
-  flex-direction: row;
-  justify-content: center;
+.home-text33 {
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 24px;
 }
 .home-ios {
   gap: var(--dl-space-space-halfunit);
+  width: 100%;
   display: flex;
   flex-direction: row;
-  background-color: #0F0F0F;
+  background-color: #7c91b5;
 }
-.home-icon09 {
+.home-icon10 {
   width: 16px;
   object-fit: cover;
 }
@@ -932,28 +921,6 @@ export default {
   font-family: Poppins;
   font-weight: 500;
   line-height: 24px;
-}
-.home-android {
-  gap: var(--dl-space-space-halfunit);
-  display: flex;
-  flex-direction: row;
-  background-color: #0F0F0F;
-}
-.home-icon10 {
-  width: 16px;
-  object-fit: cover;
-}
-.home-text35 {
-  color: rgb(255, 255, 255);
-  font-size: 16px;
-  font-style: normal;
-  font-family: Poppins;
-  font-weight: 500;
-  line-height: 24px;
-}
-.home-pasted-image4 {
-  width: 531px;
-  height: 337px;
 }
 .home-footer {
   gap: var(--dl-space-space-fiveunits);
@@ -968,7 +935,7 @@ export default {
   padding-bottom: var(--dl-space-space-threeunits);
   justify-content: center;
 }
-.home-content4 {
+.home-content3 {
   width: 100%;
   display: flex;
   max-width: 1200px;
@@ -985,7 +952,7 @@ export default {
   flex-direction: column;
   justify-content: flex-start;
 }
-.home-content5 {
+.home-content4 {
   width: 100%;
   display: flex;
   align-items: flex-start;
@@ -999,7 +966,7 @@ export default {
   flex-direction: column;
   justify-content: center;
 }
-.home-header4 {
+.home-header3 {
   gap: var(--dl-space-space-unit);
   display: flex;
   align-items: flex-start;
@@ -1042,7 +1009,7 @@ export default {
   flex-direction: column;
   justify-content: center;
 }
-.home-header5 {
+.home-header4 {
   gap: var(--dl-space-space-unit);
   display: flex;
   align-items: flex-start;
@@ -1066,7 +1033,7 @@ export default {
   flex-direction: column;
   justify-content: center;
 }
-.home-header6 {
+.home-header5 {
   gap: var(--dl-space-space-unit);
   display: flex;
   align-items: flex-start;
@@ -1089,7 +1056,7 @@ export default {
   flex-direction: column;
   justify-content: center;
 }
-.home-text48 {
+.home-text47 {
   color: rgb(196, 196, 196);
   width: 100%;
   font-size: 14px;
@@ -1147,7 +1114,7 @@ export default {
   padding-bottom: var(--dl-space-space-unit);
   background-color: #80FF44;
 }
-.home-text49 {
+.home-text48 {
   color: rgb(12, 16, 12);
   display: none;
   font-size: 16px;
@@ -1156,7 +1123,7 @@ export default {
   font-weight: 500;
   line-height: 24px;
 }
-.home-text50 {
+.home-text49 {
   color: rgb(12, 16, 12);
   display: flex;
   font-size: 16px;
@@ -1183,7 +1150,7 @@ export default {
   flex-direction: column;
   justify-content: center;
 }
-.home-text53 {
+.home-text52 {
   color: #C4C4C4;
   width: 100%;
   font-size: 14px;
@@ -1257,22 +1224,15 @@ export default {
     width: 991px;
     height: 439px;
   }
-  .home-content3 {
-    align-items: center;
-    flex-direction: column;
-  }
-  .home-buttons1 {
-    width: 100%;
+  .home-android {
+    flex: 1;
+    justify-content: center;
   }
   .home-ios {
     flex: 1;
     justify-content: center;
   }
-  .home-android {
-    flex: 1;
-    justify-content: center;
-  }
-  .home-content4 {
+  .home-content3 {
     gap: var(--dl-space-space-threeunits);
     align-items: flex-start;
     flex-direction: column;
@@ -1369,24 +1329,15 @@ export default {
   .home-smarter-ai {
     flex-direction: column-reverse;
   }
-  .home-start-writing {
-    padding-top: var(--dl-space-space-fourunits);
-  }
-  .home-header3 {
-    padding-bottom: var(--dl-space-space-fiveunits);
-  }
-  .home-buttons1 {
-    flex-direction: column;
+  .home-android {
+    flex: 0 0 auto;
+    width: 100%;
   }
   .home-ios {
     flex: 0 0 auto;
     width: 100%;
   }
-  .home-android {
-    flex: 0 0 auto;
-    width: 100%;
-  }
-  .home-content5 {
+  .home-content4 {
     gap: var(--dl-space-space-threeunits);
     flex-direction: column;
   }
@@ -1397,7 +1348,7 @@ export default {
     gap: var(--dl-space-space-twounits);
     flex-direction: column;
   }
-  .home-text50 {
+  .home-text49 {
     color: rgb(12, 16, 12);
     font-size: 16px;
     font-style: normal;
@@ -1413,10 +1364,74 @@ export default {
   .home-heading {
     max-width: 280px;
   }
+  .home-content1 {
+    width: 479px;
+  }
+  .home-paragraph {
+    width: 445px;
+    align-self: center;
+  }
+  .home-header1 {
+    width: 479px;
+  }
+  .home-text22 {
+    color: rgb(194, 198, 204);
+    align-self: center;
+    font-family: Poppins;
+    line-height: 28px;
+  }
+  .home-secure-verifable {
+    width: 442px;
+  }
+  .home-container2 {
+    width: 100%;
+    height: 455px;
+  }
+  .home-section1 {
+    color: rgb(198, 255, 75);
+    align-self: stretch;
+  }
+  .home-heading4 {
+    width: 442px;
+    align-self: flex-end;
+    margin-left: 257px;
+  }
+  .home-paragraph2 {
+    width: 439px;
+    height: 324px;
+    align-self: flex-start;
+    max-height: auto;
+    min-height: auto;
+    padding-bottom: 0px;
+  }
+  .home-pasted-image3 {
+    width: 211px;
+    height: 138px;
+  }
+  .home-heading5 {
+    width: 100%;
+    align-items: flex-start;
+    justify-content: center;
+  }
+  .home-heading6 {
+    width: 431px;
+    align-self: center;
+  }
+  .home-checkmarks {
+    width: 479px;
+    align-self: center;
+  }
+  .home-label {
+    color: rgb(255, 255, 255);
+    font-style: normal;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 24px;
+  }
   .home-textinput {
     flex: 1;
   }
-  .home-text49 {
+  .home-text48 {
     color: rgb(12, 16, 12);
     display: flex;
     font-size: 24px;
@@ -1426,7 +1441,7 @@ export default {
     line-height: 24px;
     white-space: nowrap;
   }
-  .home-text50 {
+  .home-text49 {
     color: rgb(12, 16, 12);
     display: none;
     font-size: 24px;
