@@ -53,7 +53,7 @@
           <p class="home-text12">
             <span>
               General contract covers wide range of
-              <span v-html="rawbl7y"></span>
+              <span v-html="rawwyr2"></span>
             </span>
             <br />
             <span>
@@ -88,7 +88,7 @@
                 drafting, negotiating, and signing contracts an effortless task.
                 Our solution not only simplifies the process but also ensures your
                 contracts are securely stored and easily accessible.
-                <span v-html="rawww6m"></span>
+                <span v-html="rawvjwt"></span>
               </p>
             </main>
             <div class="home-explore-more">
@@ -118,7 +118,7 @@
             verifiable, and tamper-proof, providing peace of mind in your
             transactions.
           </span>
-          <span><span v-html="rawakz0"></span></span>
+          <span><span v-html="rawy4gv"></span></span>
         </span>
       </header>
       <section class="home-smarter-ai">
@@ -167,11 +167,11 @@
               decentralized ledger. This provides an unalterable record of each
               agreement, enabling all parties to verify contract authenticity and
               integrity at any time, from any location.
-              <span v-html="rawm1i9"></span>
+              <span v-html="rawjiri"></span>
             </span>
             <br />
-            <span><span v-html="raw7k5q"></span></span>
-            <span><span v-html="rawjgmk"></span></span>
+            <span><span v-html="rawh4bn"></span></span>
+            <span><span v-html="raw92f3"></span></span>
           </p>
         </div>
         <img
@@ -361,12 +361,12 @@ export default {
   },
   data() {
     return {
-      rawbl7y: ' ',
-      rawww6m: ' ',
-      rawakz0: ' ',
-      rawm1i9: ' ',
-      raw7k5q: ' ',
-      rawjgmk: ' ',
+      rawwyr2: ' ',
+      rawvjwt: ' ',
+      rawy4gv: ' ',
+      rawjiri: ' ',
+      rawh4bn: ' ',
+      raw92f3: ' ',
     }
   },
   metaInfo: {
@@ -1380,8 +1380,11 @@ export default {
   .home-text22 {
     color: rgb(194, 198, 204);
     align-self: center;
+    text-align: left;
     font-family: Poppins;
     line-height: 28px;
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
   }
   .home-secure-verifable {
     width: 442px;
