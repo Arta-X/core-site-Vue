@@ -103,11 +103,16 @@ export default {
     },
     image_src1: {
       type: String,
-      default: '/playground_assets/planical7012-ttpb.svg',
+      default:
+        'https://play.teleporthq.io/static/svg/placeholders/no-image.svg',
     },
     image_src: {
       type: String,
       default: '/playground_assets/hamburger-200h.png',
+    },
+    pastedImage_alt2: {
+      type: String,
+      default: 'pastedImage',
     },
     image_alt1: {
       type: String,
@@ -118,9 +123,22 @@ export default {
       default:
         'https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5f198b6c-7277-4cb4-afbb-4630fe965132/7e62aaaf-b77d-45e3-8c73-ad658996ba09?org_if_sml=111183',
     },
+    pastedImage_alt1: {
+      type: String,
+      default: 'pastedImage',
+    },
     pastedImage_alt: {
       type: String,
       default: 'pastedImage',
+    },
+    pastedImage_src1: {
+      type: String,
+      default: '/playground_assets/pastedimage-c3dd-200h.png',
+    },
+    pastedImage_src2: {
+      type: String,
+      default:
+        'https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5f198b6c-7277-4cb4-afbb-4630fe965132/48cb8560-25cd-4a67-9e2d-316bc4a43e6b?org_if_sml=137144',
     },
     image_alt2: {
       type: String,
@@ -135,14 +153,6 @@ export default {
       type: String,
       default:
         'https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/08e9141c-e9e9-4d51-994d-22f260b21c68/0f4ac702-51a5-4a68-8182-06e3f427edb8?org_if_sml=14251',
-    },
-    pastedImage_src1: {
-      type: String,
-      default: '/playground_assets/pastedimage-c3dd-200h.png',
-    },
-    pastedImage_alt1: {
-      type: String,
-      default: 'pastedImage',
     },
   },
   components: {

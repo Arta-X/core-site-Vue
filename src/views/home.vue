@@ -58,7 +58,7 @@
           <p class="home-text12">
             <span>
               General contract covers wide range of
-              <span v-html="rawn7sj"></span>
+              <span v-html="rawt8qg"></span>
             </span>
             <br />
             <span>
@@ -93,7 +93,7 @@
                 drafting, negotiating, and signing contracts an effortless task.
                 Our solution not only simplifies the process but also ensures your
                 contracts are securely stored and easily accessible.
-                <span v-html="raw4ox2"></span>
+                <span v-html="rawkc33"></span>
               </p>
             </main>
             <div class="home-explore-more">
@@ -110,24 +110,25 @@
     </section>
     <section class="home-section2">
       <header class="home-header1">
-        <h2 class="home-text21">Why do you need a digital contract?</h2>
+        <h2 class="home-text21">What is Arta-X?</h2>
         <span class="home-text22">
-          In an increasingly digital world, traditional paper contracts simply
-          don&apos;t cut it. Digital contracts offer speed, efficiency, and
-          security that paper contracts can&apos;t match. They can be created,
-          signed, and stored electronically, eliminating the need for physical
-          storage and reducing environmental impact. More importantly, digital
-          contracts facilitated by Arta-X leverage AI and blockchain technology,
-          ensuring the contracts are not only easy to create but also highly
-          secure and tamper-proof.
-          <span v-html="rawe2gs"></span>
+          Traditional contract drafting can be a labyrinth of complex legal
+          jargon, leaving room for misunderstandings and costly errors. Arta-X
+          revolutionizes this process by transforming the way you handle
+          contracts. Our AI-powered platform simplifies the drafting process by
+          converting intricate legal language into understandable terms, ensuring
+          clarity and comprehension for all parties involved. With the security of
+          blockchain technology, every contract is transparent, verifiable, and
+          tamper-proof, providing peace of mind in your transactions. Say goodbye
+          to the complexities of contract creation and step into the future of
+          hassle-free, secure digital contracts with Arta-X.
         </span>
       </header>
       <section class="home-note1">
         <div class="home-image2">
           <img
             alt="pastedImage"
-            src="/playground_assets/pastedimage-m8zj-400h.png"
+            src="/playground_assets/pastedimage-m8zj-600w.png"
             class="home-pasted-image2"
           />
         </div>
@@ -151,13 +152,11 @@
         </div>
       </section>
       <section class="home-note2">
-        <div class="home-image3">
-          <img
-            alt="pastedImage"
-            src="/playground_assets/pastedimage-fv4o-1200w.png"
-            class="home-pasted-image3"
-          />
-        </div>
+        <img
+          alt="pastedImage"
+          src="/playground_assets/pastedimage-onpg-500h.png"
+          class="home-pasted-image3"
+        />
         <div class="home-content3">
           <main class="home-main3">
             <header class="home-caption2">
@@ -167,22 +166,22 @@
             </header>
             <main class="home-heading4">
               <header class="home-header2">
-                <h2 class="section-heading">
+                <h2 class="home-heading5 section-heading">
                   <span>Secure contract solutions, verifiable anywhere</span>
                   <br />
                 </h2>
-                <p class="section-description">
+                <p class="home-paragraph2 section-description">
                   <span>
                     Arta-X provides secure contract solutions that you can verify
                     from anywhere in the world. Our use of blockchain technology
                     ensures
-                    <span v-html="raw6kjo"></span>
+                    <span v-html="raw52lw"></span>
                   </span>
                   <br />
                   <span>
                     that each contract is tamper-proof and transparently recorded
                     on
-                    <span v-html="rawb4j6"></span>
+                    <span v-html="rawywx9"></span>
                   </span>
                   <br />
                   <span>
@@ -369,86 +368,10 @@
         </section>
       </div>
     </footer>
-    <div>
-      <DangerousHTML
-        html="<script>
-      /*
-  Accordion - Code Embed
-  */
-  
-  /* listenForUrlChangesAccordion() makes sure that if you changes pages inside your app,
-  the Accordions will still work*/
-  
-  const listenForUrlChangesAccordion = () => {
-        let url = location.href;
-        document.body.addEventListener(
-          'click',
-          () => {
-            requestAnimationFrame(() => {
-              if (url !== location.href) {
-                runAccordionCodeEmbed();
-                url = location.href;
-              }
-            });
-          },
-          true
-        );
-      };
-  
-  
-  const runAccordionCodeEmbed = () => {
-      const accordionContainers = document.querySelectorAll('[data-role='accordion-container']'); // All accordion containers
-      const accordionContents = document.querySelectorAll('[data-role='accordion-content']'); // All accordion content
-      const accordionIcons = document.querySelectorAll('[data-role='accordion-icon']'); // All accordion icons
-  
-      accordionContents.forEach((accordionContent) => {
-          accordionContent.style.display = 'none'; //Hides all accordion contents
-      });
-  
-      accordionContainers.forEach((accordionContainer, index) => {
-          accordionContainer.addEventListener('click', () => {
-              accordionContents.forEach((accordionContent) => {
-              accordionContent.style.display = 'none'; //Hides all accordion contents
-              });
-  
-              accordionIcons.forEach((accordionIcon) => {
-                  accordionIcon.style.transform = 'rotate(0deg)'; // Resets all icon transforms to 0deg (default)
-              });
-  
-              accordionContents[index].style.display = 'flex'; // Shows accordion content
-              accordionIcons[index].style.transform = 'rotate(180deg)'; // Rotates accordion icon 180deg
-          });
-      });
-  }
-  
-  runAccordionCodeEmbed()
-  listenForUrlChangesAccordion()
-  
-  /*
-  Here's what the above is doing:
-      1. Selects all accordion containers, contents, and icons
-      2. Hides all accordion contents
-      3. Adds an event listener to each accordion container
-      4. When an accordion container is clicked, it:
-          - Hides all accordion contents
-          - Resets all icon transforms to 0deg (default)
-          - Checks if this container has class 'accordion-open'
-              - If it does, it removes class 'accordion-open'
-              - If it doesn't, it:
-                  - Removes class 'accordion-open' from all containers
-                  - Adds class 'accordion-open' to this container
-                  - Shows accordion content
-                  - Rotates accordion icon 180deg
-  */
-  </script>"
-      ></DangerousHTML>
-    </div>
   </div>
 </template>
 
 <script>
-import DangerousHTML from 'dangerous-html/vue'
-
 import AppNavbar from '../components/navbar'
 import AppMark from '../components/mark'
 
@@ -457,15 +380,13 @@ export default {
   components: {
     AppNavbar,
     AppMark,
-    DangerousHTML,
   },
   data() {
     return {
-      rawn7sj: ' ',
-      raw4ox2: ' ',
-      rawe2gs: ' ',
-      raw6kjo: ' ',
-      rawb4j6: ' ',
+      rawt8qg: ' ',
+      rawkc33: ' ',
+      raw52lw: ' ',
+      rawywx9: ' ',
     }
   },
   metaInfo: {
@@ -733,9 +654,11 @@ export default {
 }
 .home-header1 {
   gap: var(--dl-space-space-unit);
-  width: 100%;
+  width: 1098px;
+  height: auto;
   display: flex;
   max-width: 900px;
+  align-self: center;
   align-items: center;
   flex-direction: column;
   justify-content: center;
@@ -774,7 +697,7 @@ export default {
 }
 .home-pasted-image2 {
   width: 558px;
-  height: 313px;
+  align-self: stretch;
 }
 .home-content2 {
   gap: var(--dl-space-space-threeunits);
@@ -810,20 +733,24 @@ export default {
 .home-note2 {
   width: 100%;
   display: flex;
+  position: relative;
   max-width: 1200px;
+  align-self: flex-start;
   align-items: center;
   flex-direction: row-reverse;
-  justify-content: center;
-}
-.home-image3 {
-  flex: 1;
-  display: flex;
-  align-items: center;
-  flex-direction: row;
-  justify-content: center;
+  justify-content: flex-end;
 }
 .home-pasted-image3 {
-  height: 334px;
+  flex: 0;
+  right: 0px;
+  width: 473px;
+  bottom: 1px;
+  height: 473px;
+  margin: auto;
+  position: absolute;
+  align-self: center;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
 }
 .home-content3 {
   gap: var(--dl-space-space-threeunits);
@@ -849,6 +776,8 @@ export default {
 }
 .home-section4 {
   color: rgb(198, 255, 75);
+  align-self: flex-start;
+  text-align: left;
 }
 .home-heading4 {
   gap: var(--dl-space-space-twounits);
@@ -866,9 +795,16 @@ export default {
   flex-direction: column;
   justify-content: center;
 }
+.home-heading5 {
+  align-self: flex-start;
+}
+.home-paragraph2 {
+  align-self: flex-start;
+}
 .home-checkmarks {
   gap: var(--dl-space-space-unit);
   display: flex;
+  align-self: flex-start;
   align-items: flex-start;
   flex-direction: column;
   justify-content: flex-start;
