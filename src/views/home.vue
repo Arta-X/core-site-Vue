@@ -34,13 +34,7 @@
             </div>
           </main>
         </div>
-        <div class="home-image">
-          <img
-            alt="image"
-            src="/playground_assets/heroimage-1500h.png"
-            class="home-image1"
-          />
-        </div>
+        <div class="home-image"></div>
         <img
           alt="pastedImage"
           src="/playground_assets/pastedimage-saa-400w.png"
@@ -59,7 +53,7 @@
           <p class="home-text12">
             <span>
               General contract covers wide range of
-              <span v-html="rawxs39"></span>
+              <span v-html="raw6n3s"></span>
             </span>
             <br />
             <span>
@@ -94,7 +88,7 @@
                 drafting, negotiating, and signing contracts an effortless task.
                 Our solution not only simplifies the process but also ensures your
                 contracts are securely stored and easily accessible.
-                <span v-html="rawnkgb"></span>
+                <span v-html="raw2cut"></span>
               </p>
             </main>
             <div class="home-explore-more">
@@ -121,11 +115,11 @@
           clarity and comprehension for all parties involved. With the security of
           blockchain technology, every contract is secured, verifiable, and
           tamper-proof, providing peace of mind in your transactions.
-          <span v-html="rawifce"></span>
+          <span v-html="rawmhif"></span>
         </span>
       </header>
       <section class="home-smarter-ai">
-        <div class="home-image2">
+        <div class="home-image1">
           <img
             alt="pastedImage"
             src="/playground_assets/pastedimage-m8zj-600w.png"
@@ -161,28 +155,25 @@
             <br />
           </h2>
           <p class="home-paragraph2 section-description">
-            <span>
-              <span>
-                Arta-X provides secure contract solutions that you can verify from
-                anywhere in the world. Our use of blockchain technology ensures
-                <span v-html="raw9ass"></span>
-              </span>
-              <span><span v-html="rawdlwr"></span></span>
-            </span>
             <br />
-            <span>
-              <span>
-                that each contract is tamper-proof and transparently recorded on
-                <span v-html="rawl2gw"></span>
-              </span>
-              <span><span v-html="rawbf6f"></span></span>
-            </span>
             <br />
             <span>
               a decentralized ledger. This provides an unalterable record of each
               agreement, enabling all parties to verify contract authenticity and
               integrity at any time, from any location.
             </span>
+            <span>
+              Arta-X provides secure contract solutions that you can verify from
+              anywhere in the world. Our use of blockchain technology ensures
+              <span v-html="rawa6md"></span>
+            </span>
+            <span><span v-html="rawgsv1"></span></span>
+            <span>
+              that each contract is tamper-proof and transparently recorded on
+            </span>
+            <br />
+            <span><span v-html="rawhs8f"></span></span>
+            <span><span v-html="rawwixe"></span></span>
           </p>
           <main class="home-heading5">
             <header class="home-header2"></header>
@@ -382,13 +373,13 @@ export default {
   },
   data() {
     return {
-      rawxs39: ' ',
-      rawnkgb: ' ',
-      rawifce: ' ',
-      raw9ass: ' ',
-      rawdlwr: ' ',
-      rawl2gw: ' ',
-      rawbf6f: ' ',
+      raw6n3s: ' ',
+      raw2cut: ' ',
+      rawmhif: ' ',
+      rawa6md: ' ',
+      rawgsv1: ' ',
+      rawhs8f: ' ',
+      rawwixe: ' ',
     }
   },
   metaInfo: {
@@ -497,6 +488,7 @@ export default {
   line-height: 24px;
 }
 .home-image {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
   display: none;
 }
 .home-pasted-image {
@@ -690,7 +682,7 @@ export default {
   flex-direction: row;
   justify-content: center;
 }
-.home-image2 {
+.home-image1 {
   flex: 1;
   width: 164px;
   height: 249px;
@@ -1241,9 +1233,6 @@ export default {
     align-items: flex-end;
     flex-direction: column;
   }
-  .home-image1 {
-    width: 600px;
-  }
   .home-text08 {
     text-align: center;
   }
@@ -1255,10 +1244,18 @@ export default {
     max-width: 100%;
   }
   .home-main1 {
+    width: 991px;
     align-items: flex-start;
   }
   .home-text21 {
     text-align: center;
+  }
+  .home-pasted-image2 {
+    width: 433px;
+  }
+  .home-secure-verifable {
+    width: 991px;
+    height: 439px;
   }
   .home-content3 {
     align-items: center;
@@ -1309,9 +1306,6 @@ export default {
   }
   .home-get-started1 {
     display: none;
-  }
-  .home-image1 {
-    width: 500px;
   }
   .home-explore-technology {
     padding-top: 100px;
@@ -1418,9 +1412,6 @@ export default {
   }
   .home-heading {
     max-width: 280px;
-  }
-  .home-image1 {
-    width: 400px;
   }
   .home-textinput {
     flex: 1;
