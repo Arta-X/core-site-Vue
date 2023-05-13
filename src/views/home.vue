@@ -17,7 +17,7 @@
                 <br />
                 <span>
                   All contracts are tampered-proof and verifiable on blockchain
-                  and Digital Ledger Technology (DLT)
+                  and Distributed Ledger Technology (DLT)
                 </span>
               </span>
             </header>
@@ -59,7 +59,7 @@
           <p class="home-text12">
             <span>
               General contract covers wide range of
-              <span v-html="raw7hnn"></span>
+              <span v-html="rawxs39"></span>
             </span>
             <br />
             <span>
@@ -94,7 +94,7 @@
                 drafting, negotiating, and signing contracts an effortless task.
                 Our solution not only simplifies the process but also ensures your
                 contracts are securely stored and easily accessible.
-                <span v-html="raw2h10"></span>
+                <span v-html="rawnkgb"></span>
               </p>
             </main>
             <div class="home-explore-more">
@@ -121,7 +121,7 @@
           clarity and comprehension for all parties involved. With the security of
           blockchain technology, every contract is secured, verifiable, and
           tamper-proof, providing peace of mind in your transactions.
-          <span v-html="rawt302"></span>
+          <span v-html="rawifce"></span>
         </span>
       </header>
       <section class="home-smarter-ai">
@@ -165,17 +165,17 @@
               <span>
                 Arta-X provides secure contract solutions that you can verify from
                 anywhere in the world. Our use of blockchain technology ensures
-                <span v-html="raww2ly"></span>
+                <span v-html="raw9ass"></span>
               </span>
-              <span><span v-html="raw8tbw"></span></span>
+              <span><span v-html="rawdlwr"></span></span>
             </span>
             <br />
             <span>
               <span>
                 that each contract is tamper-proof and transparently recorded on
-                <span v-html="rawi92z"></span>
+                <span v-html="rawl2gw"></span>
               </span>
-              <span><span v-html="rawy2r5"></span></span>
+              <span><span v-html="rawbf6f"></span></span>
             </span>
             <br />
             <span>
@@ -382,13 +382,13 @@ export default {
   },
   data() {
     return {
-      raw7hnn: ' ',
-      raw2h10: ' ',
-      rawt302: ' ',
-      raww2ly: ' ',
-      raw8tbw: ' ',
-      rawi92z: ' ',
-      rawy2r5: ' ',
+      rawxs39: ' ',
+      rawnkgb: ' ',
+      rawifce: ' ',
+      raw9ass: ' ',
+      rawdlwr: ' ',
+      rawl2gw: ' ',
+      rawbf6f: ' ',
     }
   },
   metaInfo: {
