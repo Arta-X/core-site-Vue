@@ -4,7 +4,7 @@
       <div class="faq-details">
         <span class="faq-text">
           What is sit amet, consectetur adipiscing elit, sed do?
-          <span v-html="rawuq03"></span>
+          <span v-html="rawfpot"></span>
         </span>
         <span data-role="accordion-content" class="faq-text01">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
@@ -12,7 +12,7 @@
           occaecat cupidatat non proident, sunt in culpa qui officia deserunt
           mollit anim id est laborum sint occaecat cupidatat non proident, sunt in
           culpa qui officia deserunt mollit anim id.
-          <span v-html="raw2rax"></span>
+          <span v-html="rawnn5r"></span>
         </span>
       </div>
       <div data-role="accordion-icon">
@@ -33,7 +33,7 @@
           occaecat cupidatat non proident, sunt in culpa qui officia deserunt
           mollit anim id est laborum sint occaecat cupidatat non proident, sunt in
           culpa qui officia deserunt mollit anim id.
-          <span v-html="rawboyk"></span>
+          <span v-html="rawx3dj"></span>
         </span>
       </div>
       <div data-role="accordion-icon">
@@ -53,7 +53,7 @@
           occaecat cupidatat non proident, sunt in culpa qui officia deserunt
           mollit anim id est laborum sint occaecat cupidatat non proident, sunt in
           culpa qui officia deserunt mollit anim id.
-          <span v-html="raw6lmm"></span>
+          <span v-html="rawzuqc"></span>
         </span>
       </div>
       <div data-role="accordion-icon">
@@ -74,7 +74,7 @@
           occaecat cupidatat non proident, sunt in culpa qui officia deserunt
           mollit anim id est laborum sint occaecat cupidatat non proident, sunt in
           culpa qui officia deserunt mollit anim id.
-          <span v-html="rawrbmj"></span>
+          <span v-html="rawzyo7"></span>
         </span>
       </div>
       <div data-role="accordion-icon">
@@ -87,7 +87,7 @@
       <div class="faq-details4">
         <span class="faq-text08">
           What is sit amet, consectetur adipiscing elit, sed do?
-          <span v-html="rawhqk4"></span>
+          <span v-html="rawiu06"></span>
         </span>
         <span data-role="accordion-content" class="faq-text09">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
@@ -95,7 +95,7 @@
           occaecat cupidatat non proident, sunt in culpa qui officia deserunt
           mollit anim id est laborum sint occaecat cupidatat non proident, sunt in
           culpa qui officia deserunt mollit anim id.
-          <span v-html="rawlrsu"></span>
+          <span v-html="raw5u0l"></span>
         </span>
       </div>
       <div data-role="accordion-icon">
@@ -115,7 +115,7 @@
           occaecat cupidatat non proident, sunt in culpa qui officia deserunt
           mollit anim id est laborum sint occaecat cupidatat non proident, sunt in
           culpa qui officia deserunt mollit anim id.
-          <span v-html="raw2k62"></span>
+          <span v-html="rawk3ah"></span>
         </span>
       </div>
       <div data-role="accordion-icon">
@@ -135,14 +135,14 @@ export default {
   },
   data() {
     return {
-      rawuq03: ' ',
-      raw2rax: ' ',
-      rawboyk: ' ',
-      raw6lmm: ' ',
-      rawrbmj: ' ',
-      rawhqk4: ' ',
-      rawlrsu: ' ',
-      raw2k62: ' ',
+      rawfpot: ' ',
+      rawnn5r: ' ',
+      rawx3dj: ' ',
+      rawzuqc: ' ',
+      rawzyo7: ' ',
+      rawiu06: ' ',
+      raw5u0l: ' ',
+      rawk3ah: ' ',
     }
   },
 }

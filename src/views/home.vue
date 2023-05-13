@@ -58,7 +58,7 @@
           <p class="home-text12">
             <span>
               General contract covers wide range of
-              <span v-html="rawt8qg"></span>
+              <span v-html="rawlqdo"></span>
             </span>
             <br />
             <span>
@@ -93,7 +93,7 @@
                 drafting, negotiating, and signing contracts an effortless task.
                 Our solution not only simplifies the process but also ensures your
                 contracts are securely stored and easily accessible.
-                <span v-html="rawkc33"></span>
+                <span v-html="raw54ji"></span>
               </p>
             </main>
             <div class="home-explore-more">
@@ -175,13 +175,13 @@
                     Arta-X provides secure contract solutions that you can verify
                     from anywhere in the world. Our use of blockchain technology
                     ensures
-                    <span v-html="raw52lw"></span>
+                    <span v-html="raw9yan"></span>
                   </span>
                   <br />
                   <span>
                     that each contract is tamper-proof and transparently recorded
                     on
-                    <span v-html="rawywx9"></span>
+                    <span v-html="rawgut2"></span>
                   </span>
                   <br />
                   <span>
@@ -383,10 +383,10 @@ export default {
   },
   data() {
     return {
-      rawt8qg: ' ',
-      rawkc33: ' ',
-      raw52lw: ' ',
-      rawywx9: ' ',
+      rawlqdo: ' ',
+      raw54ji: ' ',
+      raw9yan: ' ',
+      rawgut2: ' ',
     }
   },
   metaInfo: {
@@ -731,7 +731,7 @@ export default {
   justify-content: center;
 }
 .home-note2 {
-  width: 100%;
+  width: 1136px;
   display: flex;
   position: relative;
   max-width: 1200px;
