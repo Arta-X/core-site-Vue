@@ -6,24 +6,16 @@
       class="navbar-pasted-image"
     />
     <div class="navbar-nav-content">
-      <div class="navbar-nav-links">
-        <span class="nav-link">Home</span>
-        <span class="nav-link">Contracts</span>
-        <span class="nav-link">About Us</span>
-      </div>
       <div class="get-started navbar-get-started">
         <span class="navbar-text">
           <span>New Contract</span>
           <br />
         </span>
       </div>
-      <div id="open-mobile-menu" class="navbar-hamburger get-started">
-        <img :alt="image_alt" :src="image_src" class="navbar-image" />
-      </div>
     </div>
     <div id="mobile-menu" class="navbar-mobile-menu">
       <div class="navbar-branding">
-        <img :alt="image_alt1" :src="image_src1" class="navbar-image1" />
+        <img :alt="image_alt1" :src="image_src1" class="navbar-image" />
         <div id="close-mobile-menu" class="navbar-container">
           <svg viewBox="0 0 1024 1024" class="navbar-icon">
             <path
@@ -32,7 +24,7 @@
           </svg>
         </div>
       </div>
-      <div class="navbar-nav-links1">
+      <div class="navbar-nav-links">
         <span class="nav-link">Features</span>
         <span class="nav-link">Why us</span>
         <span class="nav-link">Prices</span>
@@ -108,7 +100,7 @@ export default {
     },
     image_src: {
       type: String,
-      default: '/playground_assets/hamburger-200h.png',
+      default: '9df4c1d2-c994-4c1e-a57e-b5a81d63ee6c',
     },
     pastedImage_alt2: {
       type: String,
@@ -188,12 +180,6 @@ export default {
   flex-direction: row;
   justify-content: flex-start;
 }
-.navbar-nav-links {
-  gap: var(--dl-space-space-threeunits);
-  display: flex;
-  align-items: flex-start;
-  border-color: transparent;
-}
 .navbar-text {
   color: rgb(255, 255, 255);
   align-self: auto;
@@ -203,13 +189,6 @@ export default {
   font-weight: 500;
   font-stretch: normal;
   text-decoration: none;
-}
-.navbar-hamburger {
-  display: none;
-}
-.navbar-image {
-  width: 100px;
-  object-fit: cover;
 }
 .navbar-mobile-menu {
   gap: var(--dl-space-space-twounits);
@@ -233,7 +212,7 @@ export default {
   flex-direction: row;
   justify-content: space-between;
 }
-.navbar-image1 {
+.navbar-image {
   width: 100px;
   filter: brightness(0) saturate(100%);
   object-fit: cover;
@@ -248,7 +227,7 @@ export default {
   width: 24px;
   height: 24px;
 }
-.navbar-nav-links1 {
+.navbar-nav-links {
   gap: var(--dl-space-space-unit);
   color: var(--dl-color-gray-black);
   display: flex;
@@ -269,25 +248,13 @@ export default {
   .navbar-navbar {
     padding-bottom: var(--dl-space-space-fourunits);
   }
-  .navbar-nav-links {
-    display: none;
-  }
   .navbar-get-started {
     display: none;
-  }
-  .navbar-hamburger {
-    display: flex;
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
-  }
-  .navbar-image {
-    width: 16px;
-    height: 14px;
   }
   .navbar-branding {
     width: 100%;
   }
-  .navbar-nav-links1 {
+  .navbar-nav-links {
     margin-top: var(--dl-space-space-twounits);
     align-items: flex-start;
     margin-bottom: var(--dl-space-space-twounits);

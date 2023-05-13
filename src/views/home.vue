@@ -1,5 +1,6 @@
 <template>
   <div class="home-container">
+    <ul class="list"></ul>
     <app-navbar rootClassName="navbar-root-class-name"></app-navbar>
     <section class="home-main-highlight">
       <div class="home-hero">
@@ -58,7 +59,7 @@
           <p class="home-text12">
             <span>
               General contract covers wide range of
-              <span v-html="rawz2wd"></span>
+              <span v-html="raw7hnn"></span>
             </span>
             <br />
             <span>
@@ -93,7 +94,7 @@
                 drafting, negotiating, and signing contracts an effortless task.
                 Our solution not only simplifies the process but also ensures your
                 contracts are securely stored and easily accessible.
-                <span v-html="raweeul"></span>
+                <span v-html="raw2h10"></span>
               </p>
             </main>
             <div class="home-explore-more">
@@ -120,7 +121,7 @@
           clarity and comprehension for all parties involved. With the security of
           blockchain technology, every contract is secured, verifiable, and
           tamper-proof, providing peace of mind in your transactions.
-          <span v-html="raw476k"></span>
+          <span v-html="rawt302"></span>
         </span>
       </header>
       <section class="home-smarter-ai">
@@ -164,17 +165,17 @@
               <span>
                 Arta-X provides secure contract solutions that you can verify from
                 anywhere in the world. Our use of blockchain technology ensures
-                <span v-html="rawygod"></span>
+                <span v-html="raww2ly"></span>
               </span>
-              <span><span v-html="raws8sv"></span></span>
+              <span><span v-html="raw8tbw"></span></span>
             </span>
             <br />
             <span>
               <span>
                 that each contract is tamper-proof and transparently recorded on
-                <span v-html="rawc1r0"></span>
+                <span v-html="rawi92z"></span>
               </span>
-              <span><span v-html="rawkstf"></span></span>
+              <span><span v-html="rawy2r5"></span></span>
             </span>
             <br />
             <span>
@@ -381,13 +382,13 @@ export default {
   },
   data() {
     return {
-      rawz2wd: ' ',
-      raweeul: ' ',
-      raw476k: ' ',
-      rawygod: ' ',
-      raws8sv: ' ',
-      rawc1r0: ' ',
-      rawkstf: ' ',
+      raw7hnn: ' ',
+      raw2h10: ' ',
+      rawt302: ' ',
+      raww2ly: ' ',
+      raw8tbw: ' ',
+      rawi92z: ' ',
+      rawy2r5: ' ',
     }
   },
   metaInfo: {
