@@ -53,7 +53,7 @@
           <p class="home-text12">
             <span>
               General contract covers wide range of
-              <span v-html="rawfgb8"></span>
+              <span v-html="rawxzqi"></span>
             </span>
             <br />
             <span>
@@ -88,7 +88,7 @@
                 drafting, negotiating, and signing contracts an effortless task.
                 Our solution not only simplifies the process but also ensures your
                 contracts are securely stored and easily accessible.
-                <span v-html="rawje1a"></span>
+                <span v-html="raw34aw"></span>
               </p>
             </main>
             <div class="home-explore-more">
@@ -118,7 +118,7 @@
             verifiable, and tamper-proof, providing peace of mind in your
             transactions.
           </span>
-          <span><span v-html="rawkweo"></span></span>
+          <span><span v-html="raw2jzp"></span></span>
         </span>
       </header>
       <section class="home-smarter-ai">
@@ -157,6 +157,11 @@
             <span>Secure contract solutions, verifiable anywhere</span>
             <br />
           </h2>
+          <img
+            alt="pastedImage"
+            src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5f198b6c-7277-4cb4-afbb-4630fe965132/beb068f5-0ed2-4b54-8c65-41a4f76b4599?org_if_sml=112004"
+            class="home-pasted-image3"
+          />
           <p class="home-paragraph2 section-description">
             <br />
             <br />
@@ -167,77 +172,74 @@
               decentralized ledger. This provides an unalterable record of each
               agreement, enabling all parties to verify contract authenticity and
               integrity at any time, from any location.
-              <span v-html="rawy1ky"></span>
+              <span v-html="rawjzx4"></span>
             </span>
             <br />
-            <span><span v-html="rawfjug"></span></span>
-            <span><span v-html="rawk0ez"></span></span>
+            <span><span v-html="rawlexg"></span></span>
+            <span><span v-html="rawjug0"></span></span>
           </p>
         </div>
-        <img
-          alt="pastedImage"
-          src="/playground_assets/pastedimage-13ii-500w.png"
-          class="home-pasted-image3"
-        />
+      </div>
+      <div class="home-start-writing">
+        <div class="home-container3"></div>
+        <main class="home-heading5">
+          <header class="home-header2"></header>
+          <h2 class="home-heading6 section-heading">
+            Start writing your secure digital contract
+          </h2>
+          <div class="home-checkmarks">
+            <div class="home-mark">
+              <div class="home-icon">
+                <svg viewBox="0 0 1024 1024" class="home-icon01">
+                  <path d="M384 690l452-452 60 60-512 512-238-238 60-60z"></path>
+                </svg>
+              </div>
+              <p class="home-label">Verifiable contracting parties</p>
+            </div>
+            <div class="home-mark1">
+              <div class="home-icon03">
+                <svg viewBox="0 0 1024 1024" class="home-icon04">
+                  <path d="M384 690l452-452 60 60-512 512-238-238 60-60z"></path>
+                </svg>
+              </div>
+              <p class="home-label1">Customized terms and covenants</p>
+            </div>
+            <div class="home-mark2">
+              <div class="home-icon06">
+                <svg viewBox="0 0 1024 1024" class="home-icon07">
+                  <path d="M384 690l452-452 60 60-512 512-238-238 60-60z"></path>
+                </svg>
+              </div>
+              <p class="home-label2">Verifiable contract authenticity</p>
+            </div>
+          </div>
+          <img
+            alt="pastedImage"
+            src="/playground_assets/pastedimage-tux-400h.png"
+            class="home-pasted-image4"
+          />
+        </main>
+      </div>
+      <div class="home-container4">
+        <div class="home-android button">
+          <img
+            alt="image"
+            src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5f198b6c-7277-4cb4-afbb-4630fe965132/43e39825-c710-48e7-8af5-008c97c0967c?org_if_sml=1254"
+            loading="eager"
+            class="home-icon09"
+          />
+          <span class="home-text33">Download for Android</span>
+        </div>
+        <div class="home-ios button">
+          <img
+            alt="image"
+            src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5f198b6c-7277-4cb4-afbb-4630fe965132/a3aac95c-7937-4094-9654-e823a212112e?org_if_sml=1208"
+            class="home-icon10"
+          />
+          <span class="home-text34">Download for iOS</span>
+        </div>
       </div>
     </section>
-    <div class="home-container3">
-      <img
-        alt="pastedImage"
-        src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5f198b6c-7277-4cb4-afbb-4630fe965132/63f402d2-e33f-4bf3-9dcf-18f1a1b4c6aa?org_if_sml=115260"
-        class="home-pasted-image4"
-      />
-      <main class="home-heading5">
-        <header class="home-header2"></header>
-        <h2 class="home-heading6 section-heading">
-          Start writing your secure digital contract
-        </h2>
-        <div class="home-checkmarks">
-          <div class="home-mark">
-            <div class="home-icon">
-              <svg viewBox="0 0 1024 1024" class="home-icon01">
-                <path d="M384 690l452-452 60 60-512 512-238-238 60-60z"></path>
-              </svg>
-            </div>
-            <p class="home-label">Verifiable contracting parties</p>
-          </div>
-          <div class="home-mark1">
-            <div class="home-icon03">
-              <svg viewBox="0 0 1024 1024" class="home-icon04">
-                <path d="M384 690l452-452 60 60-512 512-238-238 60-60z"></path>
-              </svg>
-            </div>
-            <p class="home-label1">Customized terms and covenants</p>
-          </div>
-          <div class="home-mark2">
-            <div class="home-icon06">
-              <svg viewBox="0 0 1024 1024" class="home-icon07">
-                <path d="M384 690l452-452 60 60-512 512-238-238 60-60z"></path>
-              </svg>
-            </div>
-            <p class="home-label2">Verifiable contract authenticity</p>
-          </div>
-        </div>
-      </main>
-    </div>
-    <div class="home-container4">
-      <div class="home-android button">
-        <img
-          alt="image"
-          src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5f198b6c-7277-4cb4-afbb-4630fe965132/43e39825-c710-48e7-8af5-008c97c0967c?org_if_sml=1254"
-          class="home-icon09"
-        />
-        <span class="home-text33">Download for Android</span>
-      </div>
-      <div class="home-ios button">
-        <img
-          alt="image"
-          src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5f198b6c-7277-4cb4-afbb-4630fe965132/a3aac95c-7937-4094-9654-e823a212112e?org_if_sml=1208"
-          class="home-icon10"
-        />
-        <span class="home-text34">Download for iOS</span>
-      </div>
-    </div>
     <footer class="home-footer">
       <div class="home-content3">
         <main class="home-main-content">
@@ -361,12 +363,12 @@ export default {
   },
   data() {
     return {
-      rawfgb8: ' ',
-      rawje1a: ' ',
-      rawkweo: ' ',
-      rawy1ky: ' ',
-      rawfjug: ' ',
-      rawk0ez: ' ',
+      rawxzqi: ' ',
+      raw34aw: ' ',
+      raw2jzp: ' ',
+      rawjzx4: ' ',
+      rawlexg: ' ',
+      rawjug0: ' ',
     }
   },
   metaInfo: {
@@ -735,24 +737,29 @@ export default {
   width: 658px;
   align-self: flex-start;
 }
-.home-paragraph2 {
-  width: 637px;
-  align-self: flex-start;
-}
 .home-pasted-image3 {
   width: 413px;
   height: 275px;
   align-self: center;
 }
-.home-container3 {
+.home-paragraph2 {
+  width: 637px;
+  align-self: flex-start;
+}
+.home-start-writing {
   flex: 0 0 auto;
   display: flex;
   align-items: flex-start;
   flex-direction: column;
 }
-.home-pasted-image4 {
-  width: 531px;
-  height: 337px;
+.home-container3 {
+  flex: 0 0 auto;
+  width: 200px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 100px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
 }
 .home-heading5 {
   gap: var(--dl-space-space-twounits);
@@ -873,6 +880,10 @@ export default {
   font-weight: 600;
   line-height: 24px;
 }
+.home-pasted-image4 {
+  width: 531px;
+  height: 337px;
+}
 .home-container4 {
   flex: 0 0 auto;
   width: 320px;
@@ -889,14 +900,14 @@ export default {
   display: flex;
   margin-bottom: var(--dl-space-space-unit);
   flex-direction: row;
-  background-color: #7c91b5;
+  background-color: var(--dl-color-gray-500);
 }
 .home-icon09 {
   width: 16px;
   object-fit: cover;
 }
 .home-text33 {
-  color: rgb(255, 255, 255);
+  color: var(--dl-color-gray-white);
   font-size: 16px;
   font-style: normal;
   font-family: Poppins;
@@ -908,14 +919,14 @@ export default {
   width: 100%;
   display: flex;
   flex-direction: row;
-  background-color: #7c91b5;
+  background-color: var(--dl-color-gray-500);
 }
 .home-icon10 {
   width: 16px;
   object-fit: cover;
 }
 .home-text34 {
-  color: #ffffff;
+  color: var(--dl-color-gray-white);
   font-size: 16px;
   font-style: normal;
   font-family: Poppins;
@@ -1364,18 +1375,33 @@ export default {
   .home-heading {
     max-width: 280px;
   }
+  .home-caption {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-family: Poppins;
+    line-height: 24px;
+  }
   .home-content1 {
     width: 479px;
   }
-  .home-paragraph {
-    width: 445px;
+  .home-main1 {
+    width: 100%;
+  }
+  .home-heading1 {
+    width: 413px;
     align-self: center;
+    text-align: center;
+  }
+  .home-paragraph {
+    width: 400px;
+    align-self: center;
+    text-align: left;
   }
   .home-explore-more {
     align-self: center;
   }
   .home-header1 {
-    width: 479px;
+    width: 408px;
   }
   .home-text22 {
     color: rgb(194, 198, 204);
@@ -1385,6 +1411,12 @@ export default {
     line-height: 28px;
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
+  }
+  .home-pasted-image2 {
+    width: 378px;
+  }
+  .home-main2 {
+    width: 395px;
   }
   .home-secure-verifable {
     width: 442px;
@@ -1402,6 +1434,10 @@ export default {
     align-self: flex-end;
     margin-left: 257px;
   }
+  .home-pasted-image3 {
+    width: 211px;
+    height: 138px;
+  }
   .home-paragraph2 {
     width: 439px;
     height: 324px;
@@ -1409,10 +1445,6 @@ export default {
     max-height: auto;
     min-height: auto;
     padding-bottom: 0px;
-  }
-  .home-pasted-image3 {
-    width: 211px;
-    height: 138px;
   }
   .home-heading5 {
     width: 100%;
@@ -1424,7 +1456,8 @@ export default {
     align-self: center;
   }
   .home-checkmarks {
-    width: 479px;
+    gap: 0;
+    width: 446px;
     align-self: center;
   }
   .home-label {
@@ -1433,6 +1466,11 @@ export default {
     font-family: Poppins;
     font-weight: 600;
     line-height: 24px;
+  }
+  .home-pasted-image4 {
+    width: 469px;
+    align-self: center;
+    padding-top: var(--dl-space-space-unit);
   }
   .home-textinput {
     flex: 1;
