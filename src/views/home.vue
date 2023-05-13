@@ -53,7 +53,7 @@
           <p class="home-text12">
             <span>
               General contract covers wide range of
-              <span v-html="rawxzqi"></span>
+              <span v-html="raw8umt"></span>
             </span>
             <br />
             <span>
@@ -88,7 +88,7 @@
                 drafting, negotiating, and signing contracts an effortless task.
                 Our solution not only simplifies the process but also ensures your
                 contracts are securely stored and easily accessible.
-                <span v-html="raw34aw"></span>
+                <span v-html="rawjjor"></span>
               </p>
             </main>
             <div class="home-explore-more">
@@ -118,7 +118,7 @@
             verifiable, and tamper-proof, providing peace of mind in your
             transactions.
           </span>
-          <span><span v-html="raw2jzp"></span></span>
+          <span><span v-html="rawdk3o"></span></span>
         </span>
       </header>
       <section class="home-smarter-ai">
@@ -159,7 +159,7 @@
           </h2>
           <img
             alt="pastedImage"
-            src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/5f198b6c-7277-4cb4-afbb-4630fe965132/beb068f5-0ed2-4b54-8c65-41a4f76b4599?org_if_sml=112004"
+            src="/playground_assets/pastedimage-gvk8-500w.png"
             class="home-pasted-image3"
           />
           <p class="home-paragraph2 section-description">
@@ -172,11 +172,11 @@
               decentralized ledger. This provides an unalterable record of each
               agreement, enabling all parties to verify contract authenticity and
               integrity at any time, from any location.
-              <span v-html="rawjzx4"></span>
+              <span v-html="rawnjpo"></span>
             </span>
             <br />
-            <span><span v-html="rawlexg"></span></span>
-            <span><span v-html="rawjug0"></span></span>
+            <span><span v-html="rawf4r7"></span></span>
+            <span><span v-html="raw2hzv"></span></span>
           </p>
         </div>
       </div>
@@ -363,12 +363,12 @@ export default {
   },
   data() {
     return {
-      rawxzqi: ' ',
-      raw34aw: ' ',
-      raw2jzp: ' ',
-      rawjzx4: ' ',
-      rawlexg: ' ',
-      rawjug0: ' ',
+      raw8umt: ' ',
+      rawjjor: ' ',
+      rawdk3o: ' ',
+      rawnjpo: ' ',
+      rawf4r7: ' ',
+      raw2hzv: ' ',
     }
   },
   metaInfo: {
@@ -1381,6 +1381,9 @@ export default {
     font-family: Poppins;
     line-height: 24px;
   }
+  .home-get-started {
+    width: 251px;
+  }
   .home-content1 {
     width: 479px;
   }
@@ -1400,8 +1403,13 @@ export default {
   .home-explore-more {
     align-self: center;
   }
+  .home-pasted-image1 {
+    width: 255px;
+    height: 198px;
+  }
   .home-header1 {
     width: 408px;
+    align-items: center;
   }
   .home-text22 {
     color: rgb(194, 198, 204);
@@ -1419,7 +1427,7 @@ export default {
     width: 395px;
   }
   .home-secure-verifable {
-    width: 442px;
+    width: 401px;
   }
   .home-container2 {
     width: 100%;
@@ -1430,7 +1438,7 @@ export default {
     align-self: stretch;
   }
   .home-heading4 {
-    width: 442px;
+    width: 400px;
     align-self: flex-end;
     margin-left: 257px;
   }
@@ -1439,25 +1447,29 @@ export default {
     height: 138px;
   }
   .home-paragraph2 {
-    width: 439px;
+    width: 402px;
     height: 324px;
     align-self: flex-start;
     max-height: auto;
     min-height: auto;
     padding-bottom: 0px;
   }
+  .home-container3 {
+    margin-right: 278px;
+  }
   .home-heading5 {
-    width: 100%;
+    width: 405px;
+    align-self: center;
     align-items: flex-start;
     justify-content: center;
   }
   .home-heading6 {
-    width: 431px;
+    width: 400px;
     align-self: center;
   }
   .home-checkmarks {
-    gap: 0;
-    width: 446px;
+    gap: var(--dl-space-space-unit);
+    width: 394px;
     align-self: center;
   }
   .home-label {
@@ -1468,9 +1480,9 @@ export default {
     line-height: 24px;
   }
   .home-pasted-image4 {
-    width: 469px;
+    width: 400px;
+    height: 287px;
     align-self: center;
-    padding-top: var(--dl-space-space-unit);
   }
   .home-textinput {
     flex: 1;
