@@ -53,7 +53,7 @@
           <p class="home-text12">
             <span>
               General contract covers wide range of
-              <span v-html="rawmk43"></span>
+              <span v-html="rawbl7y"></span>
             </span>
             <br />
             <span>
@@ -88,7 +88,7 @@
                 drafting, negotiating, and signing contracts an effortless task.
                 Our solution not only simplifies the process but also ensures your
                 contracts are securely stored and easily accessible.
-                <span v-html="rawnpa3"></span>
+                <span v-html="rawww6m"></span>
               </p>
             </main>
             <div class="home-explore-more">
@@ -118,7 +118,7 @@
             verifiable, and tamper-proof, providing peace of mind in your
             transactions.
           </span>
-          <span><span v-html="rawoiua"></span></span>
+          <span><span v-html="rawakz0"></span></span>
         </span>
       </header>
       <section class="home-smarter-ai">
@@ -167,11 +167,11 @@
               decentralized ledger. This provides an unalterable record of each
               agreement, enabling all parties to verify contract authenticity and
               integrity at any time, from any location.
-              <span v-html="rawwmql"></span>
+              <span v-html="rawm1i9"></span>
             </span>
             <br />
-            <span><span v-html="rawe13e"></span></span>
-            <span><span v-html="raw6tdv"></span></span>
+            <span><span v-html="raw7k5q"></span></span>
+            <span><span v-html="rawjgmk"></span></span>
           </p>
         </div>
         <img
@@ -361,12 +361,12 @@ export default {
   },
   data() {
     return {
-      rawmk43: ' ',
-      rawnpa3: ' ',
-      rawoiua: ' ',
-      rawwmql: ' ',
-      rawe13e: ' ',
-      raw6tdv: ' ',
+      rawbl7y: ' ',
+      rawww6m: ' ',
+      rawakz0: ' ',
+      rawm1i9: ' ',
+      raw7k5q: ' ',
+      rawjgmk: ' ',
     }
   },
   metaInfo: {
@@ -1369,6 +1369,9 @@ export default {
   }
   .home-paragraph {
     width: 445px;
+    align-self: center;
+  }
+  .home-explore-more {
     align-self: center;
   }
   .home-header1 {
