@@ -53,7 +53,7 @@
           <p class="home-text12">
             <span>
               General contract covers wide range of
-              <span v-html="rawwyr2"></span>
+              <span v-html="rawfgb8"></span>
             </span>
             <br />
             <span>
@@ -88,7 +88,7 @@
                 drafting, negotiating, and signing contracts an effortless task.
                 Our solution not only simplifies the process but also ensures your
                 contracts are securely stored and easily accessible.
-                <span v-html="rawvjwt"></span>
+                <span v-html="rawje1a"></span>
               </p>
             </main>
             <div class="home-explore-more">
@@ -118,14 +118,14 @@
             verifiable, and tamper-proof, providing peace of mind in your
             transactions.
           </span>
-          <span><span v-html="rawy4gv"></span></span>
+          <span><span v-html="rawkweo"></span></span>
         </span>
       </header>
       <section class="home-smarter-ai">
         <div class="home-image1">
           <img
             alt="pastedImage"
-            src="/playground_assets/pastedimage-m8zj-600w.png"
+            src="/playground_assets/pastedimage-m8zj-300h.png"
             class="home-pasted-image2"
           />
         </div>
@@ -167,11 +167,11 @@
               decentralized ledger. This provides an unalterable record of each
               agreement, enabling all parties to verify contract authenticity and
               integrity at any time, from any location.
-              <span v-html="rawjiri"></span>
+              <span v-html="rawy1ky"></span>
             </span>
             <br />
-            <span><span v-html="rawh4bn"></span></span>
-            <span><span v-html="raw92f3"></span></span>
+            <span><span v-html="rawfjug"></span></span>
+            <span><span v-html="rawk0ez"></span></span>
           </p>
         </div>
         <img
@@ -361,12 +361,12 @@ export default {
   },
   data() {
     return {
-      rawwyr2: ' ',
-      rawvjwt: ' ',
-      rawy4gv: ' ',
-      rawjiri: ' ',
-      rawh4bn: ' ',
-      raw92f3: ' ',
+      rawfgb8: ' ',
+      rawje1a: ' ',
+      rawkweo: ' ',
+      rawy1ky: ' ',
+      rawfjug: ' ',
+      rawk0ez: ' ',
     }
   },
   metaInfo: {
@@ -679,7 +679,7 @@ export default {
   justify-content: center;
 }
 .home-pasted-image2 {
-  width: 558px;
+  width: 460px;
   align-self: stretch;
 }
 .home-content2 {
